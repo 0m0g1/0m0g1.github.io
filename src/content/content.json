@@ -1,0 +1,356 @@
+[
+    {
+        "title": "Flocking Simulation (Boids)",
+        "date": "30-11-2023",
+        "img": "boids.png",
+        "url": "http://0m0g1.github.io/grammatix",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,canvas,html canvas,advanced,hard",
+        "compatibility": "mobile,pc",
+        "description": "A context free grammer generator. A context free grammer generator. A context free grammer generator. A context free grammer generator."
+    },
+    {
+        "title": "Balanced Symbols",
+        "date": "30-11-2023",
+        "img": "",
+        "url": "http://0m0g1.github.io/grammatix",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,canvas,html canvas,advanced,hard",
+        "compatibility": "mobile,pc",
+        "description": "A context free grammer generator. A context free grammer generator. A context free grammer generator. A context free grammer generator."
+    },
+    {
+        "title": "Cubic Bezier Curves",
+        "date": "30-11-2023",
+        "img": "cubicbezier.png",
+        "url": "http://0m0g1.github.io/grammatix",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,canvas,html canvas,advanced,hard",
+        "compatibility": "mobile,pc",
+        "description": "A context free grammer generator. A context free grammer generator. A context free grammer generator. A context free grammer generator."
+    },
+    {
+        "title": "Quadratic Bezier Curves",
+        "date": "30-11-2023",
+        "img": "quadraticbezierheart.png",
+        "url": "http://0m0g1.github.io/grammatix",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,canvas,html canvas,advanced,hard",
+        "compatibility": "pc",
+        "description": "A context free grammer generator. A context free grammer generator. A context free grammer generator. A context free grammer generator."
+    },
+    {
+        "title": "Grammatix",
+        "date": "30-11-2023",
+        "img": "grammatix.png",
+        "url": "http://0m0g1.github.io/grammatix",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,library,advanced,hard",
+        "compatibility": "code,mobile,pc",
+        "description": "A context free grammer generator. A context free grammer generator. A context free grammer generator. A context free grammer generator."
+    },
+    {
+        "title": "Markov Chain",
+        "date": "11-22-2023",
+        "img": "markovchain.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math,algorithm",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Noise",
+        "date": "11-14-2023",
+        "img": "noise.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math,algorithm",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Rose",
+        "date": "11-13-2023",
+        "img": "rose.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math,algorithm",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Polar Coordinates",
+        "date": "30-11-2023",
+        "img": "polarcoordinates.png",
+        "url": "http://0m0g1.github.io/grammatix",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,library,html canvas,canvas,advanced,intermediate,math",
+        "compatibility": "code,mobile,pc",
+        "description": "A context free grammer generator. A context free grammer generator. A context free grammer generator. A context free grammer generator."
+    },
+    {
+        "title": "Random Walker (Levy Flight)",
+        "date": "11-13-2023",
+        "img": "randomwalker3.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math,algorithm",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Random Walker 2",
+        "date": "11-13-2023",
+        "img": "randomwalker2.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math,algorithm",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Random Walker",
+        "date": "11-13-2023",
+        "img": "randomwalker.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math,algorithm",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Travelling Sales Person algorithm 3",
+        "date": "11-10-2023",
+        "img": "travellingsalesperson3.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math,algorithm",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Travelling Sales Person algorithm 2 (lexographical ordering)",
+        "date": "11-10-2023",
+        "img": "travellingsalesperson2.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math,algorithm",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Lexographical Ordering",
+        "date": "11-10-2023",
+        "img": "lexographicalordering.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math,algorithm",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Travelling Sales Person algorithm",
+        "date": "11-10-2023",
+        "img": "travellingsalesperson.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math,algorithm",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Phylotaxis3",
+        "date": "11-10-2023",
+        "img": "phylotaxis3.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Phylotaxis2",
+        "date": "11-10-2023",
+        "img": "phylotaxis2.png",
+        "url": "http://0m0g1.github.io/phylotaxis2",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Phylotaxis1",
+        "date": "11-10-2023",
+        "img": "phylotaxis1.png",
+        "url": "http://0m0g1.github.io/phylotaxis1",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,math",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Image accordion",
+        "date": "11-7-2023",
+        "img": "imageaccordion.png",
+        "url": "http://0m0g1.github.io/phylotaxis1",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,game",
+        "compatibility": "pc"
+    },
+    {
+        "title": "Floating card",
+        "date": "11-7-2023",
+        "img": "floatingcard.png",
+        "url": "http://0m0g1.github.io/phylotaxis1",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,game",
+        "compatibility": "pc"
+    },
+    {
+        "title": "4 by 4 grid movement",
+        "date": "11-7-2023",
+        "img": "4b4gridmovement.png",
+        "url": "http://0m0g1.github.io/phylotaxis1",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,game",
+        "compatibility": "pc"
+    },
+    {
+        "title": "Maze generator (Recursive Backtracking)",
+        "date": "11-7-2023",
+        "img": "backtrackingmazegen.png",
+        "url": "http://0m0g1.github.io/phylotaxis1",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,game",
+        "compatibility": "mobil,pc"
+    },
+    {
+        "title": "2d solar system",
+        "date": "11-7-2023",
+        "img": "2dsolarsystem.png",
+        "url": "http://0m0g1.github.io/phylotaxis1",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,game",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Space invaders",
+        "date": "11-7-2023",
+        "img": "spaceinvaders.png",
+        "url": "http://0m0g1.github.io/phylotaxis1",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,game",
+        "compatibility": "pc"
+    },
+    {
+        "title": "Rain",
+        "date": "11-7-2023",
+        "img": "rain.png",
+        "url": "http://0m0g1.github.io/phylotaxis1",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,game",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Tic Tac Toe",
+        "date": "30-11-2023",
+        "img": "tictactoe.png",
+        "url": "http://0m0g1.github.io/phylotaxis1",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,game",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Starfield",
+        "date": "11-7-2023",
+        "img": "starfield.png",
+        "url": "http://0m0g1.github.io/starfield",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,space,math,post cards in space",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Snake",
+        "date": "11-6-2023",
+        "img": "snake.png",
+        "url": "http://0m0g1.github.io/phylotaxis1",
+        "inspiration": {
+            "name": "Daniel Shiffman",
+            "url": "https://youtube.com/thecodingtrain"
+        },
+        "tags": "html,css,javascript,html canvas,intermediate,game",
+        "compatibility": "mobile,pc"
+    }
+]

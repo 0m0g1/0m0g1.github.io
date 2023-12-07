@@ -1,0 +1,327 @@
+:root {
+    --mg: 0.5rem; /* medium gap */
+    --sg: calc(var(--mg) / 2); /* small gap */
+    --vsg: calc(var(--mg) / 4); /* very small gap */
+    --lg: calc(var(--mg) * 2); /* large gap */
+    --vlg: calc(var(--mg) * 4); /* very large gap */
+    --pc: #fefefecc; /* primary color */
+    --sc: #cccccccc; /* secondary color */ /* #eeeeeecc / #cccccccc */
+    --tc: #ffffffcc; /* tertiary color */
+    --ac: #00a4ebff; /* accent color */
+    --fpc: #fefefe44; /* faded primary color */
+    --pb: #000000ee;
+    --sb: #202020cc;
+    --tb: #404040cc;
+    --nh: 4.3rem;
+    --tt: 0.4s;
+}
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: all var(--tt) ease;
+    color: var(--pb);
+}
+
+html,
+body {
+    overflow: hidden;
+}
+
+
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    object-fit: cover;
+}
+
+input {
+    outline: transparent;
+}
+
+.cont {
+    padding: var(--mg);
+}
+
+.hcont {
+    padding-left: var(--mg);
+    padding-right: var(--mg);
+}
+
+.vcont {
+    padding-top: var(--mg);
+    padding-bottom: var(--mg);
+}
+
+.scont {
+    padding: var(--sg);
+}
+
+.pc { 
+    padding: 0% 6%;
+    min-width: 320px;
+}
+
+.mnav {
+    min-height: var(--nh);
+}
+
+.sttp {
+    padding-top: calc(var(--nh) + 7px);
+}
+
+.fw {
+    width: 100%;
+}
+
+.hw {
+    min-width: 50%;
+}
+
+.mwfw {
+    min-width: 100%;
+}
+
+.fh {
+    height: 100%;
+}
+
+.mhfh {
+    min-height: 100%;
+}
+
+.hw {
+    min-width: 50%;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.col-3 {
+    display: grid;
+    grid-template-columns: 100%;
+}
+
+.col-3> * {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.mg {
+    gap: var(--mg);
+}
+
+.sg {
+    gap: var(--sg);
+}
+
+.vsg {
+    gap: var(--vsg);
+}
+
+.lg {
+    gap: var(--lg);
+}
+
+.vlg {
+    gap: var(--vlg);
+}
+
+.mw {
+    min-width: 25%;
+}
+
+.scrlh {
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+
+.scrlv {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.hscrlb::-webkit-scrollbar {
+    display: none;
+}
+
+.scrlsnpx {
+    overflow-y: hidden;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+}
+
+.scrlsnpy {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+}
+
+.ovrflwh {
+    overflow: hidden;
+}
+
+.rnd {
+    border-radius: var(--mg);
+}
+
+.rndh {
+    border-radius: 5rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.jst-cntr {
+    justify-content: center;
+}
+
+.al-cntr {
+    align-items: center;
+}
+
+.rc {
+    position: relative;
+}
+
+.abs {
+    position: absolute;
+}
+
+.fxd {
+    position: fixed;
+}
+
+.right {
+    right: 0;
+}
+
+.left {
+    left: 0;
+}
+
+.top {
+    top: 0;
+}
+
+.btm {
+    bottom: 0;
+}
+
+.hid {
+    display: none;
+}
+
+.nbgc {
+    background-color: transparent;
+}
+
+.pcbg {
+    background-color: var(--pc);
+}
+
+.fpcbg {
+    background-color: var(--fpc);
+}
+
+.scbg {
+    background-color: var(--sc);
+}
+
+.tcbg {
+    background-color: var(--tc);
+}
+
+.scc {
+    color: var(--sc);
+}
+
+.acc {
+    color: var(--ac);
+}
+
+.acbg {
+    background-color: var(--ac);
+}
+
+.sbc {
+    color: var(--sb);
+}
+
+.sb {
+    border: 1px solid var(--pb);
+}
+
+.nb {
+    border: none;
+}
+
+.btm-shdw {
+    box-shadow: 0px -10px 5px 10px #00000044;
+}
+
+.card {
+    transition: all 1s;;
+}
+
+.bdb {
+    backdrop-filter: blur(5px);
+}
+
+.bdbbdd {
+    backdrop-filter: blur(5px) brightness(0.7);
+}
+
+.sqr {
+    aspect-ratio: 1;
+}
+
+.stck {
+    display: grid;
+}
+
+.stck> * {
+    grid-area: 1/1;
+}
+
+.card> ul> li:hover> img {
+    scale: 0.85;
+}
+
+@media screen and (width >= 768px) {
+    .col-3 {
+        grid-template-columns: 50% 50%;
+    }
+}
+
+@media screen and (width >= 992px) {
+    .col-3 {
+        grid-template-columns: 33% 33% 33%;
+    }
+}
