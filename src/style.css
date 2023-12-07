@@ -16,6 +16,11 @@
     --tt: 0.4s;
 }
 
+@font-face {
+    font-family: Rounded;
+    src: url("./assets/fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Regular.ttf");
+}
+
 *,
 *::before,
 *::after {
@@ -24,13 +29,8 @@
     box-sizing: border-box;
     transition: all var(--tt) ease;
     color: var(--pb);
+    font-family: Rounded;
 }
-
-html,
-body {
-    overflow: hidden;
-}
-
 
 body {
     width: 100%;
