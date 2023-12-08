@@ -3,6 +3,7 @@
         "title": "Flocking Simulation (Boids)",
         "date": "30-11-2023",
         "img": "boids.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/flocking%20simulation%20(boids)/canvas.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -16,6 +17,7 @@
         "title": "Balanced Symbols",
         "date": "30-11-2023",
         "img": "",
+        "rating": 2,
         "url": "https://0m0g1.github.io/projects/src/challenges/balanced%20symbols/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -29,6 +31,7 @@
         "title": "Cubic Bezier Curves",
         "date": "30-11-2023",
         "img": "cubicbezier.png",
+        "rating": 5,
         "url": "https://0m0g1.github.io/projects/src/challenges/cubic%20bezier%20curve/canvas.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -42,6 +45,7 @@
         "title": "Quadratic Bezier Curves",
         "date": "30-11-2023",
         "img": "quadraticbezierheart.png",
+        "rating": 5,
         "url": "https://0m0g1.github.io/projects/src/challenges/quadratic%20bezier%20curve/canvas.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -55,6 +59,7 @@
         "title": "Grammatix",
         "date": "30-11-2023",
         "img": "grammatix.png",
+        "rating": 5,
         "url": "https://github.com/0m0g1/grammatix",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -68,6 +73,7 @@
         "title": "Markov Chain",
         "date": "11-22-2023",
         "img": "markovchain.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/markov%20chain/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -80,6 +86,7 @@
         "title": "Noise",
         "date": "11-14-2023",
         "img": "noise.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/noise/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -92,6 +99,7 @@
         "title": "Rose",
         "date": "11-13-2023",
         "img": "rose.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/mathematical%20rose%20pattern/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -104,6 +112,7 @@
         "title": "Polar Coordinates",
         "date": "30-11-2023",
         "img": "polarcoordinates.png",
+        "rating": 2,
         "url": "https://0m0g1.github.io/projects/src/challenges/circle%20graph/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -117,6 +126,7 @@
         "title": "Random Walker (Levy Flight)",
         "date": "11-13-2023",
         "img": "randomwalker3.png",
+        "rating": 3,
         "url": "https://0m0g1.github.io/projects/src/challenges/random%20walker%20(levy%20flight)/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -129,6 +139,7 @@
         "title": "Random Walker 2",
         "date": "11-13-2023",
         "img": "randomwalker2.png",
+        "rating": 3,
         "url": "https://0m0g1.github.io/projects/src/challenges/random%20walker%202/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -141,6 +152,7 @@
         "title": "Random Walker",
         "date": "11-13-2023",
         "img": "randomwalker.png",
+        "rating": 3,
         "url": "https://0m0g1.github.io/projects/src/challenges/random%20walker/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -153,6 +165,7 @@
         "title": "Travelling Sales Person algorithm 3",
         "date": "11-10-2023",
         "img": "travellingsalesperson3.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/travelling%20salesperson%203/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -165,6 +178,7 @@
         "title": "Travelling Sales Person algorithm 2 (lexographical ordering)",
         "date": "11-10-2023",
         "img": "travellingsalesperson2.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/travelling%20salesperson%202/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -177,6 +191,7 @@
         "title": "Lexographical Ordering",
         "date": "11-10-2023",
         "img": "lexographicalordering.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/lexographic%20ordering/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -189,6 +204,7 @@
         "title": "Travelling Sales Person algorithm",
         "date": "11-10-2023",
         "img": "travellingsalesperson.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/travelling%20salesperson/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -201,6 +217,7 @@
         "title": "Phylotaxis3",
         "date": "11-10-2023",
         "img": "phylotaxis3.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/phyllotaxis/3/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -213,6 +230,7 @@
         "title": "Phylotaxis2",
         "date": "11-10-2023",
         "img": "phylotaxis2.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/phyllotaxis/2/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -225,6 +243,7 @@
         "title": "Phylotaxis1",
         "date": "11-10-2023",
         "img": "phylotaxis1.png",
+        "rating": 4.5,
         "url": "https://0m0g1.github.io/projects/src/challenges/phyllotaxis/1/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -237,6 +256,7 @@
         "title": "Image accordion",
         "date": "11-7-2023",
         "img": "imageaccordion.png",
+        "rating": 2,
         "url": "https://0m0g1.github.io/projects/src/challenges/accordion/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -249,6 +269,7 @@
         "title": "Floating card",
         "date": "11-7-2023",
         "img": "floatingcard.png",
+        "rating": 3,
         "url": "https://0m0g1.github.io/projects/src/challenges/floatingCard/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -261,6 +282,7 @@
         "title": "4 by 4 grid movement",
         "date": "11-7-2023",
         "img": "4b4gridmovement.png",
+        "rating": 3,
         "url": "https://0m0g1.github.io/projects/src/challenges/gridmovement/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -273,6 +295,7 @@
         "title": "Maze generator (Recursive Backtracking)",
         "date": "11-7-2023",
         "img": "backtrackingmazegen.png",
+        "rating": 4,
         "url": "https://0m0g1.github.io/projects/src/challenges/maze/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -284,7 +307,8 @@
     {
         "title": "2d solar system",
         "date": "11-7-2023",
-        "img": "https://0m0g1.github.io/projects/src/challenges/2d%20solar%20system/index.html",
+        "img": "2dsolarsystem.png",
+        "rating": 1,
         "url": "http://0m0g1.github.io/phylotaxis1",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -297,6 +321,7 @@
         "title": "Space invaders",
         "date": "11-7-2023",
         "img": "spaceinvaders.png",
+        "rating": 3,
         "url": "https://0m0g1.github.io/projects/src/challenges/space%20invaders/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -309,6 +334,7 @@
         "title": "Rain",
         "date": "11-7-2023",
         "img": "rain.png",
+        "rating": 1,
         "url": "https://0m0g1.github.io/projects/src/challenges/rain/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -321,6 +347,7 @@
         "title": "Tic Tac Toe",
         "date": "30-11-2023",
         "img": "tictactoe.png",
+        "rating": 3,
         "url": "https://0m0g1.github.io/projects/src/challenges/tic%20tac%20toe/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -333,6 +360,7 @@
         "title": "Starfield",
         "date": "11-7-2023",
         "img": "starfield.png",
+        "rating": 4,
         "url": "https://0m0g1.github.io/projects/src/challenges/starfield/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",
@@ -345,6 +373,7 @@
         "title": "Snake",
         "date": "11-6-2023",
         "img": "snake.png",
+        "rating": 3,
         "url": "https://0m0g1.github.io/projects/src/challenges/snake/index.html",
         "inspiration": {
             "name": "Daniel Shiffman",

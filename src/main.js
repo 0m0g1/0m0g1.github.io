@@ -27,7 +27,7 @@ const fetchContent = () => {
 
 function loadContent() {
     function addToFeed(data) {
-        const tags = data.tags + "," + data.compatibility;
+        const tags = data.rating + "," + data.tags + "," + data.compatibility;
         const compatibility = data.compatibility.split(",");
         let compatibilities = "";
         compatibility.forEach((compatibilit) => {
@@ -60,6 +60,7 @@ function loadContent() {
     let content = [];
 
     function loopData() {
+        content.sort((a, b) => b.rating - a.rating);
         for (let i = 0; i < content.length; i++) {
             addToFeed(content[i]);
         }
