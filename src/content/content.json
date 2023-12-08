@@ -29,7 +29,7 @@
     },
     {
         "title": "Cubic Bezier Curves",
-        "date": "30-11-2023",
+        "date": "5-12-2023",
         "img": "cubicbezier.png",
         "rating": 5,
         "url": "https://0m0g1.github.io/projects/src/challenges/cubic%20bezier%20curve/canvas.html",
@@ -43,7 +43,7 @@
     },
     {
         "title": "Quadratic Bezier Curves",
-        "date": "30-11-2023",
+        "date": "4-12-2023",
         "img": "quadraticbezierheart.png",
         "rating": 5,
         "url": "https://0m0g1.github.io/projects/src/challenges/quadratic%20bezier%20curve/canvas.html",
@@ -380,6 +380,19 @@
             "url": "https://youtube.com/thecodingtrain"
         },
         "tags": "html,css,javascript,html canvas,intermediate,game",
+        "compatibility": "mobile,pc"
+    },
+    {
+        "title": "Polyrhythm",
+        "date": "11-6-2023",
+        "img": "polyrhythm.png",
+        "rating": 5,
+        "url": "https://0m0g1.github.io/projects/src/challenges/snake/index.html",
+        "inspiration": {
+            "name": "hyperplexed",
+            "url": "https://youtube.com/hyperplexed"
+        },
+        "tags": "html,css,javascript,html canvas, advanced",
         "compatibility": "mobile,pc"
     }
 ]
