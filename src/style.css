@@ -114,12 +114,12 @@ input {
     flex-direction: column;
 }
 
-.col-3 {
+.col-4 {
     display: grid;
     grid-template-columns: 100%;
 }
 
-.col-3> * {
+.col-4> * {
     break-inside: avoid;
     page-break-inside: avoid;
     -webkit-column-break-inside: avoid;
@@ -315,13 +315,25 @@ input {
 }
 
 @media screen and (width >= 768px) {
-    .col-3 {
+    .col-4 {
+        grid-template-columns: 50% 50%;
+    }
+}
+
+@media screen and (width >= 768px) {
+    .col-4 {
         grid-template-columns: 50% 50%;
     }
 }
 
 @media screen and (width >= 992px) {
-    .col-3 {
+    .col-4 {
         grid-template-columns: 33% 33% 33%;
+    }
+}
+
+@media screen and (width >= 1200px) {
+    .col-4 {
+        grid-template-columns: 25% 25% 25% 25%;
     }
 }
