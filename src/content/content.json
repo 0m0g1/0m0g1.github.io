@@ -1,5 +1,33 @@
 [
     {
+        "title": "Christmas tree",
+        "date": "11-10-2023",
+        "img": "christmastree.svg",
+        "rating": 4,
+        "url": "https://0m0g1.github.io/svgs/src/content/christmastree.svg",
+        "inspiration": {
+            "name": "",
+            "url": ""
+        },
+        "tags": "svg,beginner",
+        "compatibility": "code,mobile,pc",
+        "description": "A markdown renderer library written with javascript"
+    },
+    {
+        "title": "Christmas ornamet",
+        "date": "11-10-2023",
+        "img": "christmasornament.svg",
+        "rating": 4,
+        "url": "https://0m0g1.github.io/svgs/src/content/christmasornament.svg",
+        "inspiration": {
+            "name": "",
+            "url": ""
+        },
+        "tags": "html,css,javascript,library,advanced,hard",
+        "compatibility": "code,mobile,pc",
+        "description": "A markdown renderer library written with javascript"
+    },
+    {
         "title": "Mckd.js (Markdown Renderer)",
         "date": "11-10-2023",
         "img": "null",
@@ -401,7 +429,7 @@
         "date": "15-6-2023",
         "img": "polyrhythm.png",
         "rating": 5,
-        "url": "https://0m0g1.github.io/projects/src/challenges/snake/index.html",
+        "url": "https://0m0g1.github.io/projects/src/challenges/polyrhythm/canvas.html",
         "inspiration": {
             "name": "hyperplexed",
             "url": "https://youtube.com/hyperplexed"

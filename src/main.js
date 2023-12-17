@@ -47,7 +47,7 @@ function loadContent() {
                         </li>
                     </ul>
                     <div class="col sg">
-                        <h3>${data.title}</h3>
+                        <h3 class="hac">${data.title}</h3>
                         <p class="sbc">${data.date}</p>
                         <ul class="row sg">${compatibilities}</ul>
                     </div>
@@ -77,6 +77,7 @@ function createFilterBtn(tag) {
     const btn = document.createElement("button");
     btn.innerHTML = tag;
     btn.classList.add("fw");
+    btn.classList.add("dragf");
     btn.dataset.filter = tag;
     list.appendChild(btn);
 
@@ -103,7 +104,7 @@ function createFilterBtn(tag) {
 
 function getTags() {
     cards = document.querySelectorAll("[data-tags]")
-    const tags = ["pc","mobile","code"];
+    const tags = ["pc","mobile","code","5","4.5","4","3","2","1"];
     cards.forEach((card) => {
         const cardTags = card.dataset.tags.split(",");
         cardTags.forEach((tag) => {
