@@ -1,5 +1,16 @@
 [
     {
+        "title": "Fileserver0",
+        "date": "2-29-2024",
+        "img": "fileserver0.png",
+        "rating": 5,
+        "url": "https://0m0g1.github.io/fileserver",
+        "inspiration": {},
+        "tags": "app,nodejs,electronjs,executable",
+        "compatibility": "code,mobile,pc",
+        "description": "A fileserver made with electronjs and nodejs"
+    },
+    {
         "title": "Christmas tree",
         "date": "11-10-2023",
         "img": "christmastree.svg",
