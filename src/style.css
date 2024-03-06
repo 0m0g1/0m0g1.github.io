@@ -194,6 +194,10 @@ input {
     border-radius: 5rem;
 }
 
+.crcl {
+    border-radius: 50%;
+}
+
 .flex {
     display: flex;
 }
